@@ -1,0 +1,27 @@
+{
+  "name": "izzy-mongoscraper",
+  "version": "1.0.0",
+  "description": "This app is to scrape the new york times articles into mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzydavid/izzy-mongoscraper.git"
+  },
+  "keywords": [
+    "mongodb",
+    "scraper",
+    "new",
+    "york",
+    "times"
+  ],
+  "author": "David Irizarry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/izzydavid/izzy-mongoscraper/issues"
+  },
+  "homepage": "https://github.com/izzydavid/izzy-mongoscraper#readme"
+}
